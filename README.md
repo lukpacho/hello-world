@@ -1,2 +1,4 @@
 # hello-world
-test repository
+
+Hi !
+I'm trying to make a repository.
